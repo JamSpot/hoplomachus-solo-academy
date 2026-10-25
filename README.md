@@ -16,7 +16,7 @@ https://jamspot.github.io/hoplomachus-solo-academy/
 ## Current guide sections
 - [Start here](index.html)
 - [Victorum solo campaign starter](guides/victorum-start.html)
-- [Remastered solo modes starter](guides/remastered-start.html)
+- [Remastered solo modes starter](guides/remastered-start.html)\n- [Enemy AI movement and special ability lab](guides/enemy-movement-lab.html)
 - [Research scope and checklist](research/scope.html)
 - [Sources and rules authority](sources.html)
 
